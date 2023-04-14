@@ -4,7 +4,7 @@ import (
 	"testing"
 )
 
-func TestCambiaValor(t *testing.T) {
+func TestOrderSlice(t *testing.T) {
 
 	var useCases = []struct {
 		name     string
